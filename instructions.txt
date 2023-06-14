@@ -1,0 +1,11 @@
+The exe file is located in 
+dist > index > index.exe
+
+install the dependencies by opening your command prompt or terminal
+
+1. pip install -r requirements.txt
+2. python index.py (for the version built with python's tkinter)
+3. python calc.py (for the version built with python's kivy and kivymd)
+
+
+NOTE:: when running the face or car scanner press q or Q to quit the scanner window
